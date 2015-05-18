@@ -6,7 +6,7 @@ ITMS is intelligent traffic management system.it tells you about how efficently 
 
 # How it works ?
 
-It contains four parts 
+It contains four parts...!!
 
 Part-1:
         In first part we have webcam and we click some photos of every side at crossroads and now we start extracting frquency of vehicle using image processing from photos.
