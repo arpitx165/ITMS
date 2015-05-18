@@ -15,7 +15,7 @@ Part-2:
         In this step we have frequency of every side.we send it to arduino and arduino will write all data on ports.
     
 Part-3:
-        Using serial communication of java and arduino.Java code will receive all data which is available on ports and it will give you time for each side meanning is that it will give you red or green time for each side.All data which Java code will return.Write back on ports.
+        Using serial communication of java and arduino.Java code will receive all data which is available on ports and it will give you time for each side meaning is that it will give you red or green time for each side.All data which Java code will return.Write back on ports.
         
 Part-4:
-        In this Part Arduino will get data from ports using serial communication.Data is nothing but arrays of green and red time.After this Arduino code will handle green and red lights according to array values of green and red.        
+        In this part arduino will get data from ports using serial communication.Data is nothing but arrays of green and red time.After this arduino code will handle green and red lights according to array values of green and red.        
