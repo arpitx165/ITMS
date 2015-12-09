@@ -37,7 +37,7 @@ Part-4:
 ## Contributor :-
 #####              Arpit Koolwal (Software part)
 #####              Aman Sharma   (Software part)
-#####              Ashish Gupta  (Software part
+#####              Himanchal Jain  (Software part
 #####              Anil kumar    (Hardware part)
 #####              Ashish Gupta  (Hardware part)    
 
