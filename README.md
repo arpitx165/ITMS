@@ -20,14 +20,6 @@ Part-3:
 Part-4:
         In this part arduino will get data from ports using serial communication.Data is nothing but arrays of green and red time.After this arduino code will handle green and red lights according to array values of green and red.        
 
-
-
-## ITMS flow chart view :-
- 
- 
- <p align="center"><img src="itmslogic.png"></p>
-
-
 ## ITMS UI view :-
 
  
