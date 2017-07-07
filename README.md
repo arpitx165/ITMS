@@ -1,5 +1,7 @@
 # ITMS
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fc0532e59644441080c1030d41cc1584)](https://www.codacy.com/app/arpitx165/ITMS?utm_source=github.com&utm_medium=referral&utm_content=arpitx165/ITMS&utm_campaign=badger)
+
 # What is ITMS ?
   
 ITMS is intelligent traffic management system.it tells you about how efficently you can manage traffic without putting extra efforts.
